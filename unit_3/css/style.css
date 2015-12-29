@@ -11,12 +11,13 @@ head {
 
 body {
   text-align: center;
-  background: white;
+  background-image: url(sandiegowavesfade.jpg);
   background-size: cover;
   color: #11266C;
   font-family: Verdana, Helvetica, sans-serif;
-  font-weight: 150;
+
 	}
+
 
 #slogan {
 	font-weight: 300;
@@ -24,6 +25,14 @@ body {
 	font-style: italic
 	text-align: center;
 	font-family: verdana, Helvetica, sans-serif;
+
+}
+
+.content {
+	font-weight:100
+	color: #11266c;
+	font-style: normal;
+	text-align: left;
 
 }
 
