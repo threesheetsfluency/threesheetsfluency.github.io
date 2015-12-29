@@ -1,14 +1,4 @@
 
-.image{
-	background: url(sandiegowavesfade.jpg) no-repeat center center fixed; 
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  position: relative;
-}
-
-
 
 h1 {
 	font-family: "Brush Script MT", cursive;
@@ -16,7 +6,11 @@ h1 {
 	text-align: center;
 	color: #11266C;
 	font-size: 300px
-	position: absolute;
+	background: url(sandiegowavesfade.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 }
 
