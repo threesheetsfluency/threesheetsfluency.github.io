@@ -1,9 +1,11 @@
 
 .image{
 	background: url(sandiegowavesfade.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   position: relative;
-  width: 300px;
 }
 
 
@@ -35,7 +37,6 @@ body {
 	font-style: italic
 	text-align: center;
 	font-family: Georgia, Times, “Times New Roman”, serif;
-	position: absolute;
 	font-size: 80px;
 
 }
@@ -54,7 +55,7 @@ body {
 	font-weight:100
 	color: #11266c;
 	font-style: normal;
-	text-align: left;
+	text-align: center;
 	font-size: 15px;
 	font-family: Georgia, Times, “Times New Roman”, serif;
 
