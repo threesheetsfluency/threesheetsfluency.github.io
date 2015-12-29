@@ -1,0 +1,35 @@
+
+head {
+	font-weight: 600;
+	color: #11266C;
+	text-align: center;
+	font-family: verdana, Helvetica, sans-serif;
+
+
+
+}
+
+body {
+  text-align: center;
+  background: white;
+  background-size: cover;
+  color: #11266C;
+  font-family: Verdana, Helvetica, sans-serif;
+  font-weight: 150;
+	}
+
+#slogan {
+	font-weight: 300;
+	color: #11266C;
+	font-style: italic
+	text-align: center;
+	font-family: verdana, Helvetica, sans-serif;
+
+}
+
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
